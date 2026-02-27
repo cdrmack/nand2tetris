@@ -2,7 +2,7 @@ My notes from the [[https://www.nand2tetris.org/][nand2tetris]] course.
 
 * Lectures [1/7]
 - [X] [[file:Week00.org][Week 00]] (introduction)
-- [ ] Week 01 (elementary logic gates)
+- [ ] [[file:Week01.org][Week 01]] (elementary logic gates)
 - [ ] Week 02 (arithmetic logic unit)
 - [ ] Week 03 (registers and memory)
 - [ ] Week 04 (low-level programs)

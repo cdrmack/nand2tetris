@@ -1,0 +1,22 @@
+#+TITLE: Week 01
+
+* Tasks [0/2]
+- [ ] read chapter 1
+- [ ] watch lectures
+
+* HDL for logic gates [4/15]
+- [X] Not
+- [X] And
+- [X] Or
+- [X] Xor
+- [ ] Mux
+- [ ] DMux
+- [ ] Not16
+- [ ] And16
+- [ ] Or16
+- [ ] Mux16
+- [ ] Or8Way
+- [ ] Mux4Way16
+- [ ] Mux8Way16
+- [ ] DMux4Way
+- [ ] DMux8Way
