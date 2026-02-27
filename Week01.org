@@ -4,16 +4,16 @@
 - [ ] read chapter 1
 - [ ] watch lectures
 
-* HDL for logic gates [4/15]
+* HDL for logic gates [9/15]
 - [X] Not
 - [X] And
 - [X] Or
 - [X] Xor
-- [ ] Mux
-- [ ] DMux
-- [ ] Not16
-- [ ] And16
-- [ ] Or16
+- [X] Mux
+- [X] DMux
+- [X] Not16
+- [X] And16
+- [X] Or16
 - [ ] Mux16
 - [ ] Or8Way
 - [ ] Mux4Way16
