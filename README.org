@@ -1,10 +1,23 @@
 My notes from the [[https://www.nand2tetris.org/][nand2tetris]] course.
 
-* Lectures [1/7]
-- [X] [[file:Week00.org][Week 00]] (introduction)
-- [ ] [[file:Week01.org][Week 01]] (elementary logic gates)
-- [ ] Week 02 (arithmetic logic unit)
-- [ ] Week 03 (registers and memory)
-- [ ] Week 04 (low-level programs)
-- [ ] Week 05 (computer architecture)
-- [ ] Week 06 (assembler)
+* Part 1
+- [X] Week 00 (introduction)
+- [X] Week 01 (elementary logic gates) [2/2]
+  - [X] read chapter 1 (hardware)
+  - [X] HDL for logic gates
+- [X] Week 02 (arithmetic logic unit) [2/2]
+  - [X] read chapter 2 (boolean arithmetic)
+  - [X] HDL for ALU
+- [ ] Week 03 (registers and memory) [0/1]
+  - [ ] read chapter 3 (memory)
+  - [ ] HDL for memory
+- [ ] Week 04 (low-level programs) [0/1]
+  - [ ] todo
+- [ ] Week 05 (computer architecture) [0/1]
+  - [ ] todo
+- [ ] Week 06 (assembler) [0/1]
+  - [ ] todo
+
+* Questions
+- How is Nand gate built?
+- How is DFF built?

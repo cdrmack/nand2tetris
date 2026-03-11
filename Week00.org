@@ -1,3 +1,0 @@
-#+TITLE: Week 00
-
-This was just an introduction to the course and ideas behind it.
